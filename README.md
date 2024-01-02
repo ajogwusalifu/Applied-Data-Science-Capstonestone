@@ -1,2 +1,2 @@
 # Applied-Data-Science-Capstonestone
-## Editing the file
+## Uploads of all finished assignments
